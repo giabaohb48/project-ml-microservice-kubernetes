@@ -1,0 +1,4 @@
+NAME          READY   STATUS    RESTARTS   AGE   IP          NODE             NOMINATED NODE   READINESS GATES
+projectml     1/1     Running   0          10s   10.1.0.98   docker-desktop   <none>           <none>
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
